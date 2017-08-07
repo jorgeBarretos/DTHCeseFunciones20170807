@@ -1,0 +1,15 @@
+
+<form id="662768685">
+<property name="name" value="CeseDeFunciones.CesedeFunciones-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="aceptado" value="java.lang.String" id="aceptado"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="aprobado" value="java.lang.String" id="aprobado"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="encargadoAnalizar" value="java.lang.String" id="encargadoAnalizar"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="esTitular" value="java.lang.String" id="esTitular"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="mailDestino" value="java.lang.String" id="mailDestino"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="mailOrigen" value="java.lang.String" id="mailOrigen"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="regresarA" value="java.lang.String" id="regresarA"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="requiereInformeLegal" value="java.lang.String" id="requiereInformeLegal"/>
+<dataHolder inputId="" name="#E9E371" type="dataModelerEntry" outId="solicitud" value="ec.edu.ucuenca.cesedefunciones.dth_cdf_solicitud" id="solicitud"/>
+</form>

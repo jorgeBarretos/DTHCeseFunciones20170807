@@ -1,0 +1,133 @@
+
+<form id="1878017123">
+<property name="name" value="SolicitanteLectura.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="solicitante_cedula" type="InputText" id="1227501275">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cedula (solicitante)quot;quot;esquot;,quot;Cedulaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/cedula"/>
+<property name="outputBinding" value="solicitante/cedula"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="solicitante_nombre" type="InputText" id="1181674460">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;nombre (solicitante)quot;quot;esquot;,quot;Nombrequot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/nombre"/>
+<property name="outputBinding" value="solicitante/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="solicitante_dependencia" type="InputText" id="1682387839">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;dependencia (solicitante)quot;quot;esquot;,quot;Dependenciaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="50"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/dependencia"/>
+<property name="outputBinding" value="solicitante/dependencia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="solicitante_cargo" type="InputText" id="100930897">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cargo (solicitante)quot;quot;esquot;,quot;Cargoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/cargo"/>
+<property name="outputBinding" value="solicitante/cargo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="solicitante_extensionTelefonica" type="InputTextInteger" id="1546775048">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;extensionTelefonica (solicitante)quot;quot;esquot;,quot;Extensión Telefónicaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="solicitante/extensionTelefonica"/>
+<property name="outputBinding" value="solicitante/extensionTelefonica"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="5" name="solicitante_emailParticular" type="InputText" id="769878519">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;emailParticular (solicitante)quot;quot;esquot;,quot;Email Particularquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/emailParticular"/>
+<property name="outputBinding" value="solicitante/emailParticular"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="solicitante_telefonoContacto" type="InputText" id="1238764773">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;telefonoContacto (solicitante)quot;quot;esquot;,quot;Teléfono de Contactoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/telefonoContacto"/>
+<property name="outputBinding" value="solicitante/telefonoContacto"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="solicitante_modalidadContrato" type="InputText" id="1203044442">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;modalidadContrato (solicitante)quot;quot;esquot;,quot;Modalidad de Contactoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/modalidadContrato"/>
+<property name="outputBinding" value="solicitante/modalidadContrato"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="solicitante_cargoId" type="InputText" id="1818263696">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cargoId (solicitante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitante/cargoId"/>
+<property name="outputBinding" value="solicitante/cargoId"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="solicitante_dependenciaId" type="InputText" id="1839803826">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;dependenciaId (solicitante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitante/dependenciaId"/>
+<property name="outputBinding" value="solicitante/dependenciaId"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="10" name="solicitante_modalidadContratoId" type="InputText" id="2018825645">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;modalidadContratoId (solicitante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitante/modalidadContratoId"/>
+<property name="outputBinding" value="solicitante/modalidadContratoId"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="solicitante" name="#E9E371" type="dataModelerEntry" outId="solicitante" value="ec.edu.ucuenca.cesedefunciones.dth_cdf_solicitante" id="solicitante"/>
+</form>

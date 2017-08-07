@@ -1,0 +1,1216 @@
+
+<form id="1919848051">
+<property name="name" value="GenerarComunicadodeNegación-taskform.form"/>
+<property name="displayMode" value="template"/>
+<property name="labelMode" value="undefined"/>
+<property name="status" value="0"/>
+<property name="formTemplate" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;1%&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_0_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_0}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_0_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_0}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_4_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_1}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_4_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_1}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitud_usuario_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitud_usuario}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitud_usuario_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitud_usuario}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitud_fechaRegistro_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitud_fechaRegistro}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitud_fechaRegistro_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitud_fechaRegistro}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitud_dependencia_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitud_dependencia}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitud_dependencia_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitud_dependencia}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_1_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_2}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_1_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_2}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_5_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_3}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_5_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_3}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitud_fechaSolicitud_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitud_fechaSolicitud}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitud_fechaSolicitud_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitud_fechaSolicitud}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitante_cedula_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_cedula}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitante_cedula_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_cedula}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitante_nombre_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_nombre}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitante_nombre_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_nombre}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitante_dependencia_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_dependencia}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitante_dependencia_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_dependencia}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitante_cargo_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_cargo}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitante_cargo_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_cargo}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitante_extensionTelefonica_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_extensionTelefonica}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitante_extensionTelefonica_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_extensionTelefonica}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitante_emailParticular_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_emailParticular}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitante_emailParticular_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_emailParticular}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitante_telefonoContacto_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_telefonoContacto}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitante_telefonoContacto_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_telefonoContacto}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitante_modalidadContrato_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_modalidadContrato}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitante_modalidadContrato_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_modalidadContrato}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitud_motivoRenuncia_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitud_motivoRenuncia}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitud_motivoRenuncia_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitud_motivoRenuncia}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;oficioSolicitud_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{oficioSolicitud}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;oficioSolicitud_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{oficioSolicitud}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_2_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_4}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_2_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_4}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_7_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_6}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_7_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_6}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;historial_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{historial}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;historial_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{historial}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;informeAnalista_inconvenientesPresentados_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{informeAnalista_inconvenientesPresentados}&lt;/div&gt;
+						&lt;/td&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;informeAnalista_inconvenientesPresentados_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{informeAnalista_inconvenientesPresentados}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;informeAnalista_comentarios_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{informeAnalista_comentarios}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;informeAnalista_comentarios_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{informeAnalista_comentarios}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;informeAnalista_informeLegalRequerido_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{informeAnalista_informeLegalRequerido}&lt;/div&gt;
+						&lt;/td&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;informeAnalista_informeLegalRequerido_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{informeAnalista_informeLegalRequerido}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;informeAnalista_motivoInformeLegal_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{informeAnalista_motivoInformeLegal}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;informeAnalista_motivoInformeLegal_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{informeAnalista_motivoInformeLegal}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_8_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_5}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_8_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_5}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_9_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_8}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_9_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_8}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;informeLegal_informeLegal_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{informeLegal_informeLegal}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;informeLegal_informeLegal_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{informeLegal_informeLegal}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;archivoInformeLegal_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{archivoInformeLegal}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;archivoInformeLegal_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{archivoInformeLegal}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_3_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_7}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_3_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_7}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;:decorator_6_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{:decorator_9}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;:decorator_6_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{:decorator_9}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;center&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;center&quot;&gt;
+						&lt;div id=&quot;solicitud_informeAprobado_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitud_informeAprobado}&lt;/div&gt;
+						&lt;/td&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;center&quot;&gt;
+						&lt;div id=&quot;solicitud_informeAprobado_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitud_informeAprobado}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;solicitud_informeDth_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{informeDth}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;solicitud_informeDth_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{informeDth}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;$label{:decorator_10}&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;$field{:decorator_10}&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;$label{:decorator_11}&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;$field{:decorator_11}&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;center&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;center&quot;&gt;
+						&lt;div&gt;$field{solicitud_aceptada}&lt;/div&gt;
+						&lt;/td&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;center&quot;&gt;
+						&lt;div&gt;$label{solicitud_aceptada}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div&gt;$label{solicitud_fechaAceptacion}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div&gt;$field{solicitud_fechaAceptacion}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div&gt;$label{solicitud_numDocumentoAceptacion}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div&gt;$field{solicitud_numDocumentoAceptacion}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div&gt;$label{solicitud_ultimoDiaFunciones}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div&gt;$field{solicitud_ultimoDiaFunciones}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;$label{solicitud_comentariosAceptacion}&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;$field{solicitud_comentariosAceptacion}&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;$label{solicitud_oficioRespuesta}&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;$field{solicitud_oficioRespuesta}&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+"/>
+<field position="0" name="archivoInformeLegal" type="Document" id="44573350">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;archivoInformeLegal (archivoInformeLegal)quot;quot;esquot;,quot;Adjunto Informe Legalquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="archivoInformeLegal"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="1" name="historial" type="Document" id="1610110898">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;historial (historial)quot;quot;esquot;,quot;Historialquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="historial"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="2" name="informeAnalista_comentarios" type="InputTextArea" id="1056411358">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;comentarios (informeAnalista)quot;quot;esquot;,quot;Comentariosquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="90"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="informeAnalista/comentarios"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="informeAnalista_historial" type="Document" id="465407457">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;historial (informeAnalista)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="informeAnalista/historial"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="4" name="informeAnalista_id" type="InputTextLong" id="1624413342">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id (informeAnalista)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="informeAnalista/id"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="5" name="informeAnalista_inconvenientesPresentados" type="CheckBox" id="1370574783">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;inconvenientesPresentados (informeAnalista)quot;quot;esquot;,quot;¿El Funcionario Presenta Inconvenientes?quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="informeAnalista/inconvenientesPresentados"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="6" name="informeAnalista_informeLegalRequerido" type="CheckBox" id="1311663784">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;informeLegalRequerido (informeAnalista)quot;quot;esquot;,quot;¿Requiere Informe Legal?quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="informeAnalista/informeLegalRequerido"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="7" name="informeAnalista_motivoInformeLegal" type="InputTextArea" id="438295675">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;motivoInformeLegal (informeAnalista)quot;quot;esquot;,quot;Motivo de Informe Legalquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="90"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="informeAnalista/motivoInformeLegal"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="informeDth" type="Document" id="1299496754">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;informeDth (informeDth)quot;quot;esquot;,quot;Adjunto Informe de Talento Humanoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="informeDth"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="9" name="informeLegal_archivoInformeLegal" type="Document" id="1115574989">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;archivoInformeLegal (informeLegal)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="informeLegal/archivoInformeLegal"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="10" name="informeLegal_id" type="InputTextLong" id="293234812">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id (informeLegal)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="informeLegal/id"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="11" name="informeLegal_informeLegal" type="HTMLEditor" id="325447271">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;informeLegal (informeLegal)quot;quot;esquot;,quot;Informe Legal Sobre la Solicitudquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="555"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="informeLegal/informeLegal"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="12" name="oficioSolicitud" type="Document" id="1846043506">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;oficioSolicitud (oficioSolicitud)quot;quot;esquot;,quot;Oficio de Solicitudquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="oficioSolicitud"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="13" name="solicitante_cargo" type="InputText" id="828482915">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cargo (solicitante)quot;quot;esquot;,quot;Cargoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/cargo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="14" name="solicitante_cargoId" type="InputText" id="1237441553">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cargoId (solicitante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitante/cargoId"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="15" name="solicitante_cedula" type="InputText" id="662042884">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cedula (solicitante)quot;quot;esquot;,quot;Cédulaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/cedula"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="16" name="solicitante_dependencia" type="InputText" id="486859041">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;dependencia (solicitante)quot;quot;esquot;,quot;Dependenciaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="50"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/dependencia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="17" name="solicitante_dependenciaId" type="InputText" id="241648806">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;dependenciaId (solicitante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitante/dependenciaId"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="18" name="solicitante_emailParticular" type="InputText" id="513691086">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;emailParticular (solicitante)quot;quot;esquot;,quot;Email Particularquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/emailParticular"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="19" name="solicitante_extensionTelefonica" type="InputTextInteger" id="1299739579">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;extensionTelefonica (solicitante)quot;quot;esquot;,quot;Extensión Telefónicaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="solicitante/extensionTelefonica"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="20" name="solicitante_id" type="InputTextLong" id="408898779">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id (solicitante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitante/id"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="21" name="solicitante_modalidadContrato" type="InputText" id="1248534356">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;modalidadContrato (solicitante)quot;quot;esquot;,quot;Modalidad de Contratoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/modalidadContrato"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="22" name="solicitante_modalidadContratoId" type="InputText" id="1023129804">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;modalidadContratoId (solicitante)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitante/modalidadContratoId"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="23" name="solicitante_nombre" type="InputText" id="1716818046">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;nombre (solicitante)quot;quot;esquot;,quot;Nombrequot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="24" name="solicitante_telefonoContacto" type="InputText" id="1521529341">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;telefonoContacto (solicitante)quot;quot;esquot;,quot;Teléfono de Contactoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/telefonoContacto"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="25" name="solicitud_aceptada" type="CheckBox" id="1188277901">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;aceptada (solicitud)quot;quot;esquot;,quot;¿Aceptar Cese de Funciones?quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="solicitud/aceptada"/>
+<property name="outputBinding" value="solicitud/aceptada"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="26" name="solicitud_cancelado" type="CheckBox" id="298597234">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cancelado (solicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitud/cancelado"/>
+<property name="outputBinding" value="solicitud/cancelado"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="27" name="solicitud_comentariosAceptacion" type="InputTextArea" id="1059595790">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;comentariosAceptacion (solicitud)quot;quot;esquot;,quot;Comentarios de Aceptaciónquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="90"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitud/comentariosAceptacion"/>
+<property name="outputBinding" value="solicitud/comentariosAceptacion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="28" name="solicitud_dependencia" type="InputText" id="1671470421">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;dependencia (solicitud)quot;quot;esquot;,quot;Dependencia que Registraquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="50"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitud/dependencia"/>
+<property name="outputBinding" value="solicitud/dependencia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="29" name="solicitud_dependenciaId" type="InputText" id="174997055">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;dependenciaId (solicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitud/dependenciaId"/>
+<property name="outputBinding" value="solicitud/dependenciaId"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="30" name="solicitud_entregado" type="CheckBox" id="527054660">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;entregado (solicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitud/entregado"/>
+<property name="outputBinding" value="solicitud/entregado"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="31" name="solicitud_fechaAceptacion" type="InputShortDate" id="1981593718">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;fechaAceptacion (solicitud)quot;quot;esquot;,quot;Fecha de Aceptaciónquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="solicitud/fechaAceptacion"/>
+<property name="outputBinding" value="solicitud/fechaAceptacion"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="32" name="solicitud_fechaCancelacion" type="InputDate" id="1642454067">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fechaCancelacion (solicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitud/fechaCancelacion"/>
+<property name="outputBinding" value="solicitud/fechaCancelacion"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="33" name="solicitud_fechaEntrega" type="InputDate" id="1399300040">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fechaEntrega (solicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitud/fechaEntrega"/>
+<property name="outputBinding" value="solicitud/fechaEntrega"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="34" name="solicitud_fechaRegistro" type="InputShortDate" id="88478010">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;fechaRegistro (solicitud)quot;quot;esquot;,quot;Fecha de Registroquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="solicitud/fechaRegistro"/>
+<property name="outputBinding" value="solicitud/fechaRegistro"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="35" name="solicitud_fechaSolicitud" type="InputShortDate" id="1012438492">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;fechaSolicitud (solicitud)quot;quot;esquot;,quot;Fecha de Solicitudquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="solicitud/fechaSolicitud"/>
+<property name="outputBinding" value="solicitud/fechaSolicitud"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="36" name="solicitud_id" type="InputTextLong" id="1533975661">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id (solicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitud/id"/>
+<property name="outputBinding" value="solicitud/id"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="37" name="solicitud_informeAprobado" type="CheckBox" id="1317982416">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;informeAprobado (solicitud)quot;quot;esquot;,quot;Informe Aprobadoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="solicitud/informeAprobado"/>
+<property name="outputBinding" value="solicitud/informeAprobado"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="38" name="solicitud_informeDth" type="Document" id="989005868">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;informeDth (solicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitud/informeDth"/>
+<property name="outputBinding" value="solicitud/informeDth"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="39" name="solicitud_motivoRenuncia" type="InputTextArea" id="44872971">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;motivoRenuncia (solicitud)quot;quot;esquot;,quot;Motivo de la Renunciaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="90"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitud/motivoRenuncia"/>
+<property name="outputBinding" value="solicitud/motivoRenuncia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="40" name="solicitud_numDocumentoAceptacion" type="InputText" id="1732379861">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;numDocumentoAceptacion (solicitud)quot;quot;esquot;,quot;Documento de Aceptaciónquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="50"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitud/numDocumentoAceptacion"/>
+<property name="outputBinding" value="solicitud/numDocumentoAceptacion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="41" name="solicitud_oficioRespuesta" type="Document" id="1003177837">
+<property name="fieldRequired" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;oficioRespuesta (solicitud)quot;quot;esquot;,quot;Oficio de Respuestaquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitud/oficioRespuesta"/>
+<property name="outputBinding" value="solicitud/oficioRespuesta"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="42" name="solicitud_oficioSolicitud" type="Document" id="1281349171">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;oficioSolicitud (solicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitud/oficioSolicitud"/>
+<property name="outputBinding" value="solicitud/oficioSolicitud"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="43" name="solicitud_ultimoDiaFunciones" type="InputShortDate" id="1788059411">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;ultimoDiaFunciones (solicitud)quot;quot;esquot;,quot;Último Día de Funcionesquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="inputBinding" value="solicitud/ultimoDiaFunciones"/>
+<property name="outputBinding" value="solicitud/ultimoDiaFunciones"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="44" name="solicitud_usuario" type="InputText" id="567117231">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;usuario (solicitud)quot;quot;esquot;,quot;Usuario que Registraquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitud/usuario"/>
+<property name="outputBinding" value="solicitud/usuario"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="45" name=":decorator_0" type="HTMLLabel" id="115157672">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;CESE DE FUNCIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;CESE DE FUNCIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;CESE DE FUNCIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;CESE DE FUNCIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;CESE DE FUNCIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;CESE DE FUNCIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;CESE DE FUNCIONES&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;CESE DE FUNCIONES&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="46" name=":decorator_1" type="Separator" id="1942088695">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="47" name=":decorator_2" type="HTMLLabel" id="1887358339">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;SOLICITUD&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;SOLICITUD&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;SOLICITUD&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;SOLICITUD&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;SOLICITUD&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;SOLICITUD&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;SOLICITUD&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;SOLICITUD&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="48" name=":decorator_3" type="Separator" id="1227861238">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="49" name=":decorator_4" type="HTMLLabel" id="965369551">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ANÁLISIS DE TALENTO HUMANO&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ANÁLISIS DE TALENTO HUMANO&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ANÁLISIS DE TALENTO HUMANO&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ANÁLISIS DE TALENTO HUMANO&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ANÁLISIS DE TALENTO HUMANO&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ANÁLISIS DE TALENTO HUMANO&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ANÁLISIS DE TALENTO HUMANO&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ANÁLISIS DE TALENTO HUMANO&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="50" name=":decorator_5" type="HTMLLabel" id="1527357238">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;INFORME LEGAL&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;INFORME LEGAL&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;INFORME LEGAL&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;INFORME LEGAL&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;INFORME LEGAL&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;INFORME LEGAL&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;INFORME LEGAL&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;INFORME LEGAL&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="51" name=":decorator_6" type="Separator" id="354549267">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="52" name=":decorator_7" type="HTMLLabel" id="91069380">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;VALIDACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;VALIDACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;VALIDACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;VALIDACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;VALIDACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;VALIDACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;VALIDACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;VALIDACIÓN&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="53" name=":decorator_8" type="Separator" id="319287636">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="54" name=":decorator_9" type="Separator" id="2006074199">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="55" name=":decorator_10" type="HTMLLabel" id="1414575556">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ACEPTACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ACEPTACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ACEPTACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ACEPTACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ACEPTACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ACEPTACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ACEPTACIÓN&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:485px;height:20px;text-align:center; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;ACEPTACIÓN&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="56" name=":decorator_11" type="Separator" id="2120660166">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<dataHolder inputId="archivoInformeLegal" name="#B29FE4" type="basicType" outId="" value="org.jbpm.document.Document" id="archivoInformeLegal"/>
+<dataHolder inputId="historial" name="#9BCAFA" type="basicType" outId="" value="org.jbpm.document.Document" id="historial"/>
+<dataHolder inputId="informeAnalista" name="#FF54A7" type="dataModelerEntry" outId="" value="ec.edu.ucuenca.cesedefunciones.dth_cdf_informe_analista" id="informeAnalista"/>
+<dataHolder inputId="informeDth" name="#FBB767" type="basicType" outId="" value="org.jbpm.document.Document" id="informeDth"/>
+<dataHolder inputId="informeLegal" name="#BBBBBB" type="dataModelerEntry" outId="" value="ec.edu.ucuenca.cesedefunciones.dth_cdf_informe_legal" id="informeLegal"/>
+<dataHolder inputId="oficioSolicitud" name="#0000A0" type="basicType" outId="" value="org.jbpm.document.Document" id="oficioSolicitud"/>
+<dataHolder inputId="solicitante" name="#E9E371" type="dataModelerEntry" outId="" value="ec.edu.ucuenca.cesedefunciones.dth_cdf_solicitante" id="solicitante"/>
+<dataHolder inputId="solicitud" name="#E9E371" type="dataModelerEntry" outId="solicitud" value="ec.edu.ucuenca.cesedefunciones.dth_cdf_solicitud" id="solicitud"/>
+</form>

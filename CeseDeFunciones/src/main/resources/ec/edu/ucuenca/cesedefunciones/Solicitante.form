@@ -1,0 +1,155 @@
+
+<form id="2019486481">
+<property name="name" value="Solicitante.form"/>
+<property name="displayMode" value="template"/>
+<property name="labelMode" value="undefined"/>
+<property name="status" value="0"/>
+<property name="formTemplate" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; height=&quot;215&quot; width=&quot;528&quot;&gt;  &lt;tbody&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;solicitante_cedula_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_cedula}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;solicitante_cedula_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_cedula}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;solicitante_nombre_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_nombre}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;solicitante_nombre_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_nombre}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;solicitante_dependenciaId_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_dependenciaId}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;solicitante_dependenciaId_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_dependenciaId}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;solicitante_cargoId_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_cargoId}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;solicitante_cargoId_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_cargoId}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;solicitante_extensionTelefonica_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_extensionTelefonica}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;solicitante_extensionTelefonica_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_extensionTelefonica}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;solicitante_emailParticular_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_emailParticular}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;solicitante_emailParticular_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_emailParticular}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;solicitante_telefonoContacto_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_telefonoContacto}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;solicitante_telefonoContacto_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_telefonoContacto}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;    &lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;       &lt;div id=&quot;solicitante_modalidadContratoId_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{solicitante_modalidadContratoId}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;solicitante_modalidadContratoId_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_modalidadContratoId}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;   &lt;tr&gt;    &lt;td align=&quot;left&quot; colspan=&quot;2&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; height=&quot;17&quot; width=&quot;458&quot;&gt;     &lt;tbody&gt;      &lt;tr&gt;       &lt;td valign=&quot;top&quot;&gt;       &lt;div id=&quot;solicitante_dependencia_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{solicitante_dependencia}$field{solicitante_modalidadContrato}$field{solicitante_cargo}&lt;/div&gt;       &lt;/td&gt;      &lt;/tr&gt;     &lt;/tbody&gt;    &lt;/table&gt;    &lt;/td&gt;   &lt;/tr&gt;  &lt;/tbody&gt; &lt;/table&gt; "/>
+<field position="0" name="solicitante_cedula" type="InputText" id="1976097965">
+<property name="fieldRequired" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cedula (solicitante)quot;quot;esquot;,quot;Cédula:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/cedula"/>
+<property name="outputBinding" value="solicitante/cedula"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="solicitante_nombre" type="InputText" id="1623522408">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;nombre (solicitante)quot;quot;esquot;,quot;Nombre:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/nombre"/>
+<property name="outputBinding" value="solicitante/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="solicitante_dependenciaId" type="InputText" id="504363166">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;dependenciaId (solicitante)quot;quot;esquot;,quot;Dependencia:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="50"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/dependenciaId"/>
+<property name="outputBinding" value="solicitante/dependenciaId"/>
+<property name="fieldClass" value="java.lang.String"/>
+<property name="onChangeScript" value="$(&quot;#solicitante_dependencia&quot;).val($(this).val()); "/>
+</field>
+<field position="3" name="solicitante_cargoId" type="InputText" id="1263897005">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cargoId (solicitante)quot;quot;esquot;,quot;Cargo:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/cargoId"/>
+<property name="outputBinding" value="solicitante/cargoId"/>
+<property name="fieldClass" value="java.lang.String"/>
+<property name="onChangeScript" value="$(&quot;#solicitante_cargo&quot;).val($(this).val());"/>
+</field>
+<field position="4" name="solicitante_extensionTelefonica" type="InputTextInteger" id="911674652">
+<property name="fieldRequired" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;extensionTelefonica (solicitante)quot;quot;esquot;,quot;Extensión Telefónica:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="solicitante/extensionTelefonica"/>
+<property name="outputBinding" value="solicitante/extensionTelefonica"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="5" name="solicitante_emailParticular" type="InputText" id="123123959">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;emailParticular (solicitante)quot;quot;esquot;,quot;Email Particular:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/emailParticular"/>
+<property name="outputBinding" value="solicitante/emailParticular"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="solicitante_telefonoContacto" type="InputText" id="269628131">
+<property name="fieldRequired" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;telefonoContacto (solicitante)quot;quot;esquot;,quot;Teléfono de Contacto:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/telefonoContacto"/>
+<property name="outputBinding" value="solicitante/telefonoContacto"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="solicitante_modalidadContratoId" type="InputText" id="2089838897">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;modalidadContratoId (solicitante)quot;quot;esquot;,quot;Modalidad de Contrato:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,;1,Titular;2,Contratado}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/modalidadContratoId"/>
+<property name="outputBinding" value="solicitante/modalidadContratoId"/>
+<property name="fieldClass" value="java.lang.String"/>
+<property name="onChangeScript" value="$(&quot;#solicitante_modalidadContrato&quot;).val($(this).find(&apos;option:selected&apos;).text());"/>
+</field>
+<field position="8" name="solicitante_dependencia" type="InputText" id="1387942374">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;dependencia (solicitante)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/dependencia"/>
+<property name="outputBinding" value="solicitante/dependencia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="solicitante_cargo" type="InputText" id="946268833">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cargo (solicitante)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/cargo"/>
+<property name="outputBinding" value="solicitante/cargo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="10" name="solicitante_modalidadContrato" type="InputText" id="721068643">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;modalidadContrato (solicitante)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="solicitante/modalidadContrato"/>
+<property name="outputBinding" value="solicitante/modalidadContrato"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="solicitante" name="#E9E371" type="dataModelerEntry" outId="solicitante" value="ec.edu.ucuenca.cesedefunciones.dth_cdf_solicitante" id="solicitante"/>
+</form>
